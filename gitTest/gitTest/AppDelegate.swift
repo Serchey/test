@@ -16,6 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        print("This is JAPONAMAT!")
         print("This is the DEV change")
         print("And This is ANOTHER DEV change")
         print("And This is THIRD DEV change!!!")
