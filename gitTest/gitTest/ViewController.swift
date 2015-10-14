@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("This is commit A")
         print("This is commit B")
         print("This is commit D")
+        print("This is commit REVIEW")
     }
 
     override func didReceiveMemoryWarning() {
