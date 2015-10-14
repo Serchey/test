@@ -13,11 +13,15 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("This is commit Dev")
+        print("This is commit A")
+        print("This is commit B")
+        print("This is commit D")
+        print("This is commit REVIEW")
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+        print("This is commit C")
     }
 
 
