@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("This is commit Dev")
+        print("This is commit Dev it goes further")
     }
 
     override func didReceiveMemoryWarning() {
